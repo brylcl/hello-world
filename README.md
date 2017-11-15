@@ -3,4 +3,4 @@ a new repository
 
 Hello everybody,
 
-Bry here. Cold and dull November night calls for a warm hot chocolate, I'd say!
+Bry here. This cold and dull November night calls for a warm hot chocolate, I'd say!
